@@ -1,0 +1,2694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\wtooker\GitHub\apple2-supertalker\apple2-supertalker\apple2-supertalker.kicad_sch</source>
+    <date>10/24/2024 3:26:54 PM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>apple2-supertalker.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bd83685-62a0-43ba-aefc-821c5a656161</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF 35V</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87b5b709-2c4f-4fd0-8f1b-4a87897717ba</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF 35V</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b4881d5-f157-4f4f-8f65-f374aa327611</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35e40eba-296a-42b1-85a1-c20138d9af12</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fca66e5-2538-4139-ae1b-b398affc9868</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffd66787-e165-4864-80f2-af1928e012fb</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d8d861b-9fcf-4e29-a42d-2f6252a7a1f9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2263cb22-ebc4-4d22-8698-048f6ab29892</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.39uF 50V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd771644-fca1-4b83-a628-119af5017399</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.068uF 63V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9422e39-58c0-4264-863a-673601c8ffaf</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1983078b-6334-4200-8e0e-f6d9616c6473</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53ce1ece-055b-4517-b96d-27291bfb97df</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e644ddaa-a33b-45ed-96ae-9451dfa9eaa8</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d01eed83-ccfe-4446-a0c3-833476d0cd45</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>640e2d02-e741-4f2a-bcad-4d0b4ee34583</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.0015uF 100V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c92226fd-f662-494a-b6b6-c30afcb0a35e</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>573de5fe-7135-49a3-81d1-e3fdc2c2e710</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f9af333-7d58-4088-be5a-f03ea281c3bb</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2fc05fc-0e2b-4356-b4f0-0efe38210f11</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207526dc-77cb-49af-b295-d311ab6d9aac</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>82pF 500V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d6eadc7-616b-4cd0-bf41-ff7b8225b06b</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b6805f3-6d43-4072-bdb3-1039f903b16a</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4425160e-cc06-4d79-914f-ea6ef2550f65</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>82pF 500V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13f27ada-193e-48f3-9b75-362d3d133d93</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92527499-9451-4da7-a681-4ba6a16384f6</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ace00472-1e75-427f-86a1-c6786a3bc777</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fadf9d05-76ae-493a-b3c8-a368338071df</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0903b5a4-49ca-4684-899a-4bef3597d074</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67666dab-9765-4da1-82e1-42751a44e856</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bac8d199-9b13-4dcf-b850-57822560b537</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.0015uF 100V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9fe5978-cadf-4b82-884f-69f97e705f0e</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9518816-dc46-42ba-bfa5-7a250ae4fbaa</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96f9f6c7-ea80-438e-bc45-47acea8dec14</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fcf5917-49d7-457c-8dcd-ecf72178793c</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>10uF 35V</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1438f9c1-1f26-4583-8cbf-1667c1d08839</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100pF 500V</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30793b04-d2c5-42c3-81f5-e6135887d935</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6d7b3c2-2b09-4cb4-a10f-b79acefc19c4</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90bd415d-b4cf-47da-aa12-5697fa219cb8</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>0.1uF 50V
+</value>
+      <footprint>Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aa7291b-e223-43df-a86b-301e0014fef8</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>470uF 25V</value>
+      <footprint>Capacitor_THT:CP_Axial_L25.0mm_D10.0mm_P30.00mm_Horizontal</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72f376a0-bb0c-4066-a56d-033b7301823f</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>0.01uF 100V
+</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>PolyFilm</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d09472bc-0267-4cd0-b109-9b55c90f5835</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cae6bbdc-4c00-4086-832f-39453c383c6c</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>10uF 25V</value>
+      <footprint>Capacitor_THT_Custom:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7050b72b-42e8-4c7c-a54b-1f98e2076092</tstamps>
+    </comp>
+    <comp ref="CR1">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="100V 0.15A standard switching diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>271fe635-95f7-4787-8397-563c553b3c82</tstamps>
+    </comp>
+    <comp ref="CR2">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="100V 0.15A standard switching diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e490bfc2-97c6-41c8-97c7-98d985fda92d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SPKR OUTPUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal</footprint>
+      <libsource lib="Connector_Audio" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="ki_keywords" value="audio jack receptacle stereo headphones phones TRS connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16339b80-c0fa-4b93-8e13-76586f6ce610</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>MIC INPUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal</footprint>
+      <libsource lib="Connector_Audio" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="ki_keywords" value="audio jack receptacle stereo headphones phones TRS connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bed34169-553f-4ef5-b346-119dd9eedf06</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>Apple II Expansion Bus</value>
+      <footprint>Connector_Custom:Apple_II_Expansion_Bus_Card_Edge</footprint>
+      <libsource lib="Connector_Custom" part="Apple_II_Expansion_Bus" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b03e375-71de-491f-abc7-97b024db07ad</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a61e965-9617-4f67-bbaa-d682520d7096</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4d9b925-b774-452a-b663-b17b6a9c5eca</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47bacca7-ab4f-479e-911b-08c95d8c3760</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>3.3K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05fd3f5a-d045-4023-86fe-533a5eba67de</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>18K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4a1edfa-a6b9-409d-8da3-13270476d07e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2.7M</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87063268-23ea-4b87-8dd0-dc84ecce209f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1.3K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>015729a7-5810-4c4a-a444-3939790819dd</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>620</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13ea28d4-2776-4214-947d-fdd5f7db424b</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62977d1b-6250-4e9c-a5c6-ae78a55a30e2</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>620</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cfaf1b1-40fe-4fb5-8aa0-d8f64347695f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac1c00cf-c646-4532-9e99-bfc96eb6e6e4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba93a3c-a0ef-4849-8934-320ec01e9f10</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>20K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da3b3ea1-ef20-4c37-899c-877a2f9c44d5</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>33K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44442cba-aec3-4f62-866b-c4f657191d0f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9976ba3f-e1a0-4838-87e2-35640d668d3c</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>51K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d91079ce-e6d0-48d0-b654-d6e835a0b57b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>51K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fff61267-f34c-4fc5-a9dc-8eb64f3ed3c1</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>62K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2df3cf8c-b066-4b32-b84a-80a73ae244bd</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>20K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>583c15ff-76a2-41a3-9aaf-6ed9e3e9a14b</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4d2e975-60aa-4f2c-87cc-72e9ca4c8739</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>22K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c23e95c-cf89-4ec1-bf99-9c3ec5a8fd67</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>519627b6-0cd7-4fba-b54a-d5d810c3adcd</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a988f531-13df-4419-8c41-cf08be8f0367</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>51K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68e88962-10bf-41c9-a95b-23200095685b</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>62K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6353246b-06cb-48dd-8513-cbbfadb4b243</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec6fc6ec-a067-4991-8494-54b70dc690ac</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>15K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c65a8baa-9a38-4ff9-8b33-f00ae3199def</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>20K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51413546-4b9a-4e60-ae76-4d8cc5aeef48</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>51K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47f92a3e-cd36-4a21-950e-7c196690e434</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36af9c8b-d4ab-4be7-8755-894185457e65</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d908d3e8-d440-4a15-83e0-df0849671323</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>20K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b028e75-9b17-46c2-ae02-97e58cba9ad3</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>33K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80576d3c-0be6-4129-852a-00b85651e2f0</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff66ca58-84eb-4ac0-b3cb-e6b7d38228c8</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e514b479-1437-4565-92ad-3c835e1276fc</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>150K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59b2a91d-e255-4dbf-93b0-18df50c5eccb</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b1e5182-43a7-48d8-b3d8-741d1c3c7021</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff7fdcd4-6400-43af-b08a-a79e84567d8d</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>4.7K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9148732-eabc-43f1-bca1-c1f8e6e2dd63</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>9.1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7800da90-3f64-4c84-aa26-ab576b87caad</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>6.2K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02836233-9391-42d1-8952-27b0d12c8ee8</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>10K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27225949-83d3-41a8-af09-eaa12cbb58b8</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>20K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3761b5d8-9d1f-4d7f-bf66-60d26bc2369f</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>62K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e166126c-3321-48d9-b25c-87ea6c870543</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>6.2K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50d0f343-8b94-4302-8071-0be7014d2c65</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>2.2K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c86cf6b2-6985-40a8-91b1-a5046f103226</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>6.8K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>709c6a77-bfe2-481d-b464-b2c9d561a500</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>470K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d108893c-6f68-4b51-b826-46626cfd67ab</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>2.7K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d58bb7a-63bc-464d-83a8-859d6c8533b1</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e0b3aa-904f-4e2a-9165-56f856b6d599</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>68</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc592a10-5d68-467b-91e3-d41772a17e90</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>1K</value>
+      <footprint>Resistor_THT_Custom:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>947b96e3-a5f1-4eff-9c92-ead1a0cbbb01</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM324</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="ki_keywords" value="quad opamp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a60f994d-9cc4-4d7d-8fb2-47ee6838f4ca fee0c01c-d744-4ee9-bce9-d4680e1531c4 73883507-0fc4-4f9d-a6a0-77d847c37e4c e1d167a6-1197-45f9-9bc5-babf04c8b5d0 39f1ed5c-fccd-40a9-a351-5ca3631abec2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM324</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="ki_keywords" value="quad opamp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f42ea206-ce94-4fc0-9869-70106ba7feba 800c9439-96e2-4cf1-a894-2b4b5d705dbf 6b96a218-2412-4f43-a9d2-ff9bbd916832 7b60cde4-d654-4c01-8777-051472ff0bc5 3a9578b9-8354-47ef-9a48-18db6def9aa6</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LM380N</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm380.pdf</datasheet>
+      <libsource lib="Amplifier_Audio" part="LM380N" description="2.5W Audio Power Amplifier, PDIP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="2.5W Audio Power Amplifier, PDIP-14"/>
+      <property name="ki_keywords" value="audio amplifier"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3402079e-fe1c-404f-8b9b-4f9950df2cf0</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MC3418</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <libsource lib="Interface_Custom" part="MC3418" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>148383c8-b2a0-4890-8a17-34d61da675da</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>4013</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF</datasheet>
+      <libsource lib="4xxx" part="4013" description="Dual D  FlipFlop, Set &amp; reset"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Dual D  FlipFlop, Set &amp; reset"/>
+      <property name="ki_keywords" value="CMOS DFF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6249e14e-8e1f-4451-bb71-a7fff8e462a9 f1cbf39d-d90d-4b09-bbeb-d7ceccaf6c76 3ecff734-9824-4509-b1c5-878609ab4c95</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>4001</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4000bms-01bms-02bms-25bms.pdf</datasheet>
+      <libsource lib="4xxx" part="4001" description="Quad Nor 2 inputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Quad Nor 2 inputs"/>
+      <property name="ki_keywords" value="CMOS Nor2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbd67244-c09d-4b59-8b2f-299d22621f52 8199ddb2-111b-4293-a750-2e7d18b9a569 4b8c65b4-6971-4c4f-9ef8-deb87c4b4b22 b5f0a443-4a33-4073-a34f-b18daef8f2c0 2bb02799-5577-41aa-a83f-6285bfd87c82</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74LS138</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS138</datasheet>
+      <libsource lib="74xx" part="74LS138" description="Decoder 3 to 8 active low outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Decoder 3 to 8 active low outputs"/>
+      <property name="ki_keywords" value="TTL DECOD DECOD8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df038a1d-2abb-4f9c-b8fa-c8ecc64b427c</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>4035</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <libsource lib="4xxx_Custom" part="4035" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8906d79d-679e-483f-bb83-8eb0701c40db</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>74LS04</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
+      <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Hex Inverter"/>
+      <property name="ki_keywords" value="TTL not inv"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67fcc85f-d858-442c-b673-71aaadb50f62 56d81c7e-50cb-4a50-8a8a-eb0993e1e8a3 5bc6cf4c-5ecb-4f94-9ffe-7fab1a684c28 f7258279-c9ab-4f59-9cec-369593eb2306 bd18df5a-7408-49ad-8b52-02d655725fb4 b8ffdb71-4e06-4fad-950d-83a171cc8728 339febcf-a605-4ef8-9ff2-79bbdf309e0a</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>74LS174</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS174</datasheet>
+      <libsource lib="" part="74LS174_1" description="Hex D-type Flip-Flop, reset"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Hex D-type Flip-Flop, reset"/>
+      <property name="ki_keywords" value="TTL REG REG6 DFF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad7bb160-eca7-41df-a895-93a24c513d04</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>74LS174</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS174</datasheet>
+      <libsource lib="74xx" part="74LS174" description="Hex D-type Flip-Flop, reset"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Hex D-type Flip-Flop, reset"/>
+      <property name="ki_keywords" value="TTL REG REG6 DFF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11ed81b6-4cae-4cca-b6d2-7a9013c2f8f9</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>74LS367</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <libsource lib="" part="74LS367_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b24ae687-d18d-4f8d-b6a6-2d15e09a065f 9da989df-ae69-48e3-bb6a-a553f80196c8 457afccb-db1d-4cd6-9756-90e11aa6bd86 7382423d-5902-4797-af55-3307c4603651 2fd82bf6-9349-4075-83df-6304c0510fcd 051a583c-3b7d-4cdf-875f-49d75c6dface 00963944-5ad1-4b7c-b001-d3eae029910f</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>4529</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <libsource lib="4xxx_IEEE" part="4529" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e08d8a4-da47-44f5-8930-46f10c7975a0</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>4040</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf</datasheet>
+      <libsource lib="4xxx" part="4040" description="Binary Counter 12 stages (Asynchronous)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="apple2-supertalker.kicad_sch"/>
+      <property name="ki_description" value="Binary Counter 12 stages (Asynchronous)"/>
+      <property name="ki_keywords" value="CMOS CNT CNT12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>022ea008-5574-4983-a8b3-fbe8df18779e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="74LS174_1">
+      <description>Hex D-type Flip-Flop, reset</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS174</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U10</field>
+        <field name="Value">74LS174</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS174</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{Mr}" type="input"/>
+        <pin num="2" name="Q0" type="output"/>
+        <pin num="3" name="D0" type="input"/>
+        <pin num="4" name="D1" type="input"/>
+        <pin num="5" name="Q1" type="output"/>
+        <pin num="6" name="D2" type="input"/>
+        <pin num="7" name="Q2" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="Cp" type="input"/>
+        <pin num="10" name="Q3" type="output"/>
+        <pin num="11" name="D3" type="input"/>
+        <pin num="12" name="Q4" type="output"/>
+        <pin num="13" name="D4" type="input"/>
+        <pin num="14" name="D5" type="input"/>
+        <pin num="15" name="Q5" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="74LS367_4">
+      <fields>
+        <field name="Reference">U12</field>
+        <field name="Value">74LS367</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="tri_state"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="tri_state"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="tri_state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="" type="tri_state"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="tri_state"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="tri_state"/>
+        <pin num="14" name="" type="input"/>
+        <pin num="15" name="" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4xxx" part="4001">
+      <description>Quad Nor 2 inputs</description>
+      <docs>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4000bms-01bms-02bms-25bms.pdf</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4001</field>
+        <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4000bms-01bms-02bms-25bms.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4xxx" part="4013">
+      <description>Dual D  FlipFlop, Set &amp; reset</description>
+      <docs>http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4013</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q" type="output"/>
+        <pin num="2" name="~{Q}" type="output"/>
+        <pin num="3" name="C" type="input"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="D" type="input"/>
+        <pin num="6" name="S" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="S" type="input"/>
+        <pin num="9" name="D" type="input"/>
+        <pin num="10" name="R" type="input"/>
+        <pin num="11" name="C" type="input"/>
+        <pin num="12" name="~{Q}" type="output"/>
+        <pin num="13" name="Q" type="output"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4xxx" part="4040">
+      <description>Binary Counter 12 stages (Asynchronous)</description>
+      <docs>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4040</field>
+        <field name="Datasheet">http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q11" type="output"/>
+        <pin num="2" name="Q5" type="output"/>
+        <pin num="3" name="Q4" type="output"/>
+        <pin num="4" name="Q6" type="output"/>
+        <pin num="5" name="Q3" type="output"/>
+        <pin num="6" name="Q2" type="output"/>
+        <pin num="7" name="Q1" type="output"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Q0" type="output"/>
+        <pin num="10" name="CLK" type="input"/>
+        <pin num="11" name="Reset" type="input"/>
+        <pin num="12" name="Q8" type="output"/>
+        <pin num="13" name="Q7" type="output"/>
+        <pin num="14" name="Q9" type="output"/>
+        <pin num="15" name="Q10" type="output"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4xxx_Custom" part="4035">
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">4035</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Q1" type="output"/>
+        <pin num="2" name="TC" type="input"/>
+        <pin num="3" name="/K" type="input"/>
+        <pin num="4" name="J" type="input"/>
+        <pin num="5" name="RESET" type="input"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="PSC" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="PI1" type="input"/>
+        <pin num="10" name="PI2" type="input"/>
+        <pin num="11" name="PI3" type="input"/>
+        <pin num="12" name="PI4" type="input"/>
+        <pin num="13" name="Q4" type="output"/>
+        <pin num="14" name="Q3" type="output"/>
+        <pin num="15" name="Q2" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="4xxx_IEEE" part="4529">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4529</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STX" type="input"/>
+        <pin num="2" name="X0" type="input"/>
+        <pin num="3" name="X1" type="input"/>
+        <pin num="4" name="X2" type="input"/>
+        <pin num="5" name="X3" type="input"/>
+        <pin num="6" name="A" type="input"/>
+        <pin num="7" name="B" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="Z" type="tri_state"/>
+        <pin num="10" name="W" type="tri_state"/>
+        <pin num="11" name="Y3" type="input"/>
+        <pin num="12" name="Y2" type="input"/>
+        <pin num="13" name="Y1" type="input"/>
+        <pin num="14" name="Y0" type="input"/>
+        <pin num="15" name="STY" type="input"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS04">
+      <description>Hex Inverter</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS04</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SSOP?14*</fp>
+        <fp>TSSOP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS04</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="output"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS138">
+      <description>Decoder 3 to 8 active low outputs</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS138</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS138</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS138</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="E1" type="input"/>
+        <pin num="5" name="E2" type="input"/>
+        <pin num="6" name="E3" type="input"/>
+        <pin num="7" name="O7" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="O6" type="output"/>
+        <pin num="10" name="O5" type="output"/>
+        <pin num="11" name="O4" type="output"/>
+        <pin num="12" name="O3" type="output"/>
+        <pin num="13" name="O2" type="output"/>
+        <pin num="14" name="O1" type="output"/>
+        <pin num="15" name="O0" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS174">
+      <description>Hex D-type Flip-Flop, reset</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS174</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS174</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS174</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{Mr}" type="input"/>
+        <pin num="2" name="Q0" type="output"/>
+        <pin num="3" name="D0" type="input"/>
+        <pin num="4" name="D1" type="input"/>
+        <pin num="5" name="Q1" type="output"/>
+        <pin num="6" name="D2" type="input"/>
+        <pin num="7" name="Q2" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="Cp" type="input"/>
+        <pin num="10" name="Q3" type="output"/>
+        <pin num="11" name="D3" type="input"/>
+        <pin num="12" name="Q4" type="output"/>
+        <pin num="13" name="D4" type="input"/>
+        <pin num="14" name="D5" type="input"/>
+        <pin num="15" name="Q5" type="output"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Audio" part="LM380N">
+      <description>2.5W Audio Power Amplifier, PDIP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm380.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM380N</field>
+        <field name="Footprint">Package_DIP:DIP-14_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm380.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BYPASS" type="passive"/>
+        <pin num="2" name="+" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="GND" type="passive"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="GND" type="passive"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="VS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="LM324">
+      <description>Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM324</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Audio" part="AudioJack3">
+      <description>Audio Jack, 3 Poles (Stereo / TRS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack3</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="R" name="" type="passive"/>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Custom" part="Apple_II_Expansion_Bus">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Apple II Expansion Bus</field>
+      </fields>
+      <pins>
+        <pin num="1" name="/IOSEL" type="output"/>
+        <pin num="2" name="A0" type="bidirectional"/>
+        <pin num="3" name="A1" type="bidirectional"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A3" type="bidirectional"/>
+        <pin num="6" name="A4" type="bidirectional"/>
+        <pin num="7" name="A5" type="bidirectional"/>
+        <pin num="8" name="A6" type="bidirectional"/>
+        <pin num="9" name="A7" type="bidirectional"/>
+        <pin num="10" name="A8" type="bidirectional"/>
+        <pin num="11" name="A9" type="bidirectional"/>
+        <pin num="12" name="A10" type="bidirectional"/>
+        <pin num="13" name="A11" type="bidirectional"/>
+        <pin num="14" name="A12" type="bidirectional"/>
+        <pin num="15" name="A13" type="bidirectional"/>
+        <pin num="16" name="A14" type="bidirectional"/>
+        <pin num="17" name="A15" type="bidirectional"/>
+        <pin num="18" name="R/W" type="bidirectional"/>
+        <pin num="19" name="SYNC" type="bidirectional"/>
+        <pin num="20" name="/IOSTRB" type="bidirectional"/>
+        <pin num="21" name="/RDY" type="input"/>
+        <pin num="22" name="/DMA" type="input"/>
+        <pin num="23" name="/INTOUT" type="input"/>
+        <pin num="24" name="/DMAOUT" type="input"/>
+        <pin num="25" name="+5V" type="power_out"/>
+        <pin num="26" name="GND" type="power_out"/>
+        <pin num="27" name="/DMAIN" type="output"/>
+        <pin num="28" name="/INTIN" type="output"/>
+        <pin num="29" name="/NMI" type="input"/>
+        <pin num="30" name="/IRQ" type="input"/>
+        <pin num="31" name="/RES" type="input"/>
+        <pin num="32" name="/INH" type="input"/>
+        <pin num="33" name="-12V" type="power_out"/>
+        <pin num="34" name="-5V" type="power_out"/>
+        <pin num="35" name="COLORREF" type="output"/>
+        <pin num="36" name="7M" type="output"/>
+        <pin num="37" name="Q3" type="output"/>
+        <pin num="38" name="Φ1" type="output"/>
+        <pin num="39" name="USER1" type="bidirectional"/>
+        <pin num="40" name="Φ0" type="output"/>
+        <pin num="41" name="/DEVSEL" type="output"/>
+        <pin num="42" name="D7" type="bidirectional"/>
+        <pin num="43" name="D6" type="bidirectional"/>
+        <pin num="44" name="D5" type="bidirectional"/>
+        <pin num="45" name="D4" type="bidirectional"/>
+        <pin num="46" name="D3" type="bidirectional"/>
+        <pin num="47" name="D2" type="bidirectional"/>
+        <pin num="48" name="D1" type="bidirectional"/>
+        <pin num="49" name="D0" type="bidirectional"/>
+        <pin num="50" name="+12V" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Custom" part="MC3418">
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">MC3418</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AI" type="input"/>
+        <pin num="2" name="AF" type="input"/>
+        <pin num="3" name="SF" type="input"/>
+        <pin num="4" name="GC" type="input"/>
+        <pin num="5" name="RI" type="input"/>
+        <pin num="6" name="FI" type="input"/>
+        <pin num="7" name="AO" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="DO" type="output"/>
+        <pin num="10" name="REF" type="output"/>
+        <pin num="11" name="/CO" type="output"/>
+        <pin num="12" name="DT" type="input"/>
+        <pin num="13" name="DI" type="input"/>
+        <pin num="14" name="CLK" type="input"/>
+        <pin num="15" name="E/D" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="PN2222A">
+      <description>1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PN2222A</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="4xxx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/4xxx.kicad_sym</uri>
+    </library>
+    <library logical="4xxx_Custom">
+      <uri>C:/Users/wtooker/GitHub/kicad-custom-objects/symbols/4xxx_Custom.kicad_sym</uri>
+    </library>
+    <library logical="4xxx_IEEE">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/4xxx_IEEE.kicad_sym</uri>
+    </library>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Audio">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Amplifier_Audio.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Audio">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Custom">
+      <uri>C:/Users/wtooker/GitHub/kicad-custom-objects/symbols/Connector_Custom.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Custom">
+      <uri>C:/Users/wtooker/GitHub/kicad-custom-objects/symbols/Interface_Custom.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="P1" pin="25" pinfunction="+5V" pintype="power_out"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U10" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="~{Mr}" pintype="input"/>
+      <node ref="U11" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U12" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U14" pin="1" pinfunction="STX" pintype="input"/>
+      <node ref="U14" pin="15" pinfunction="STY" pintype="input"/>
+      <node ref="U14" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U15" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="E3" pintype="input"/>
+      <node ref="U8" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="TC" pintype="input"/>
+      <node ref="U9" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="P1" pin="50" pinfunction="+12V" pintype="power_out"/>
+      <node ref="U3" pin="14" pinfunction="VS" pintype="power_in"/>
+    </net>
+    <net code="3" name="/ANALOG OUT">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="AO" pintype="output"/>
+    </net>
+    <net code="4" name="/WRITE STATUS">
+      <node ref="U10" pin="9" pinfunction="Cp" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="O3" pintype="output"/>
+    </net>
+    <net code="5" name="A0">
+      <node ref="P1" pin="2" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U7" pin="1" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="6" name="A1">
+      <node ref="P1" pin="3" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="7" name="A2">
+      <node ref="P1" pin="4" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="8" name="D0">
+      <node ref="P1" pin="49" pinfunction="D0" pintype="bidirectional"/>
+      <node ref="U10" pin="3" pinfunction="D0" pintype="input"/>
+      <node ref="U11" pin="3" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="9" name="D1">
+      <node ref="P1" pin="48" pinfunction="D1" pintype="bidirectional"/>
+      <node ref="U10" pin="4" pinfunction="D1" pintype="input"/>
+      <node ref="U11" pin="4" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="10" name="D2">
+      <node ref="P1" pin="47" pinfunction="D2" pintype="bidirectional"/>
+      <node ref="U11" pin="6" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="11" name="D3">
+      <node ref="P1" pin="46" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="U10" pin="11" pinfunction="D3" pintype="input"/>
+      <node ref="U11" pin="11" pinfunction="D3" pintype="input"/>
+      <node ref="U12" pin="13" pintype="tri_state"/>
+    </net>
+    <net code="12" name="D4">
+      <node ref="P1" pin="45" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="U10" pin="13" pinfunction="D4" pintype="input"/>
+      <node ref="U12" pin="3" pintype="tri_state"/>
+    </net>
+    <net code="13" name="D5">
+      <node ref="P1" pin="44" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U10" pin="14" pinfunction="D5" pintype="input"/>
+      <node ref="U12" pin="11" pintype="tri_state"/>
+    </net>
+    <net code="14" name="D6">
+      <node ref="P1" pin="43" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U12" pin="7" pintype="tri_state"/>
+    </net>
+    <net code="15" name="D7">
+      <node ref="P1" pin="42" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="U12" pin="5" pintype="tri_state"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="P1" pin="26" pinfunction="GND" pintype="power_out"/>
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U10" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U15" pin="11" pinfunction="Reset" pintype="input"/>
+      <node ref="U15" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="R" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="C" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="D" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="S" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="D" pintype="input"/>
+      <node ref="U6" pin="12" pintype="input"/>
+      <node ref="U6" pin="13" pintype="input"/>
+      <node ref="U6" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="8" pintype="input"/>
+      <node ref="U6" pin="9" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="E2" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="5" pinfunction="RESET" pintype="input"/>
+      <node ref="U8" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="17" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="J2" pin="R" pintype="passive"/>
+      <node ref="J2" pin="T" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(C37-Pad1)">
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(C40-Pad1)">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(C40-Pad2)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="J1" pin="R" pintype="passive"/>
+      <node ref="J1" pin="T" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C41-Pad2)">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(CR1-A)">
+      <node ref="CR1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(CR1-K)">
+      <node ref="CR1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(CR2-A)">
+      <node ref="CR2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(CR2-K)">
+      <node ref="CR2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(P1-{slash}DMAIN)">
+      <node ref="P1" pin="24" pinfunction="/DMAOUT" pintype="input"/>
+      <node ref="P1" pin="27" pinfunction="/DMAIN" pintype="output"/>
+    </net>
+    <net code="39" name="Net-(P1-{slash}INTIN)">
+      <node ref="P1" pin="23" pinfunction="/INTOUT" pintype="input"/>
+      <node ref="P1" pin="28" pinfunction="/INTIN" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(Q3-B)">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Q3-C)">
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(Q4-B)">
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q4-E)">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q5-B)">
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Q5-C)">
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pintype="output"/>
+    </net>
+    <net code="47" name="Net-(U1A-+)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U1A--)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(U1B-+)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(U1B--)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U1C-+)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U4" pin="10" pinfunction="REF" pintype="output"/>
+      <node ref="U4" pin="12" pinfunction="DT" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="RI" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(U1C--)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(U1D-+)">
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(U1D--)">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(U2A-+)">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(U2A--)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(U2B-+)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(U2B--)">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(U2C-+)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(U2C--)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(U2D-+)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(U2D--)">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(U3-+)">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(U3--)">
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="65" name="Net-(U3-BYPASS)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="BYPASS" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(U4-AF)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="AF" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(U4-AI)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="AI" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(U4-CLK)">
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="CLK" pintype="input"/>
+      <node ref="U6" pin="1" pintype="input"/>
+      <node ref="U8" pin="6" pinfunction="CLK" pintype="input"/>
+      <node ref="U9" pin="10" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(U4-DI)">
+      <node ref="U12" pin="6" pintype="input"/>
+      <node ref="U4" pin="13" pinfunction="DI" pintype="input"/>
+      <node ref="U8" pin="13" pinfunction="Q4" pintype="output"/>
+    </net>
+    <net code="70" name="Net-(U4-DO)">
+      <node ref="U4" pin="9" pinfunction="DO" pintype="output"/>
+      <node ref="U8" pin="3" pinfunction="/K" pintype="input"/>
+      <node ref="U8" pin="4" pinfunction="J" pintype="input"/>
+    </net>
+    <net code="71" name="Net-(U4-E{slash}D)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="E/D" pintype="input"/>
+      <node ref="U6" pin="6" pintype="input"/>
+      <node ref="U9" pin="6" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(U4-FI)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="FI" pintype="input"/>
+    </net>
+    <net code="73" name="Net-(U4-GC)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="GC" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(U4-SF)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="SF" pintype="input"/>
+    </net>
+    <net code="75" name="Net-(U4-{slash}CO)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="/CO" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(U5B-Q)">
+      <node ref="U5" pin="13" pinfunction="Q" pintype="output"/>
+      <node ref="U6" pin="2" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(U5B-S)">
+      <node ref="U5" pin="8" pinfunction="S" pintype="input"/>
+      <node ref="U9" pin="12" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5" pintype="input"/>
+      <node ref="U9" pin="4" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(U7-O1)">
+      <node ref="U7" pin="14" pinfunction="O1" pintype="output"/>
+      <node ref="U9" pin="13" pintype="input"/>
+    </net>
+    <net code="80" name="Net-(U8-PSC)">
+      <node ref="U6" pin="4" pintype="output"/>
+      <node ref="U8" pin="7" pinfunction="PSC" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(U8-Q1)">
+      <node ref="U12" pin="14" pintype="input"/>
+      <node ref="U8" pin="1" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(U8-Q2)">
+      <node ref="U12" pin="2" pintype="input"/>
+      <node ref="U8" pin="15" pinfunction="Q2" pintype="output"/>
+    </net>
+    <net code="83" name="Net-(U8-Q3)">
+      <node ref="U12" pin="12" pintype="input"/>
+      <node ref="U8" pin="14" pinfunction="Q3" pintype="output"/>
+    </net>
+    <net code="84" name="Net-(U9-Pad11)">
+      <node ref="U9" pin="11" pintype="input"/>
+      <node ref="U9" pin="2" pintype="output"/>
+    </net>
+    <net code="85" name="Net-(U10-Q3)">
+      <node ref="U10" pin="10" pinfunction="Q3" pintype="output"/>
+      <node ref="U9" pin="5" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(U10-Q4)">
+      <node ref="U10" pin="12" pinfunction="Q4" pintype="output"/>
+      <node ref="U14" pin="6" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(U10-Q5)">
+      <node ref="U10" pin="15" pinfunction="Q5" pintype="output"/>
+      <node ref="U14" pin="7" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(U11-Q0)">
+      <node ref="U11" pin="2" pinfunction="Q0" pintype="output"/>
+      <node ref="U8" pin="12" pinfunction="PI4" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(U11-Q1)">
+      <node ref="U11" pin="5" pinfunction="Q1" pintype="output"/>
+      <node ref="U8" pin="11" pinfunction="PI3" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(U11-Q2)">
+      <node ref="U11" pin="7" pinfunction="Q2" pintype="output"/>
+      <node ref="U8" pin="10" pinfunction="PI2" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(U11-Q3)">
+      <node ref="U11" pin="10" pinfunction="Q3" pintype="output"/>
+      <node ref="U8" pin="9" pinfunction="PI1" pintype="input"/>
+    </net>
+    <net code="92" name="Net-(U12-Pad4)">
+      <node ref="U12" pin="4" pintype="input"/>
+      <node ref="U6" pin="3" pintype="output"/>
+      <node ref="U9" pin="3" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(U14-W)">
+      <node ref="U14" pin="10" pinfunction="W" pintype="tri_state"/>
+      <node ref="U5" pin="11" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(U14-X0)">
+      <node ref="U14" pin="2" pinfunction="X0" pintype="input"/>
+      <node ref="U15" pin="3" pinfunction="Q4" pintype="output"/>
+    </net>
+    <net code="95" name="Net-(U14-X1)">
+      <node ref="U14" pin="3" pinfunction="X1" pintype="input"/>
+      <node ref="U15" pin="2" pinfunction="Q5" pintype="output"/>
+    </net>
+    <net code="96" name="Net-(U14-X2)">
+      <node ref="U14" pin="14" pinfunction="Y0" pintype="input"/>
+      <node ref="U14" pin="4" pinfunction="X2" pintype="input"/>
+      <node ref="U15" pin="4" pinfunction="Q6" pintype="output"/>
+    </net>
+    <net code="97" name="Net-(U14-X3)">
+      <node ref="U14" pin="13" pinfunction="Y1" pintype="input"/>
+      <node ref="U14" pin="5" pinfunction="X3" pintype="input"/>
+      <node ref="U15" pin="13" pinfunction="Q7" pintype="output"/>
+    </net>
+    <net code="98" name="Net-(U14-Y2)">
+      <node ref="U14" pin="12" pinfunction="Y2" pintype="input"/>
+      <node ref="U15" pin="12" pinfunction="Q8" pintype="output"/>
+    </net>
+    <net code="99" name="Net-(U14-Y3)">
+      <node ref="U14" pin="11" pinfunction="Y3" pintype="input"/>
+      <node ref="U15" pin="14" pinfunction="Q9" pintype="output"/>
+    </net>
+    <net code="100" name="Net-(U14-Z)">
+      <node ref="U14" pin="9" pinfunction="Z" pintype="tri_state"/>
+      <node ref="U9" pin="1" pintype="input"/>
+    </net>
+    <net code="101" name="Net-(U15-CLK)">
+      <node ref="U15" pin="10" pinfunction="CLK" pintype="input"/>
+      <node ref="U9" pin="8" pintype="output"/>
+    </net>
+    <net code="102" name="READ_DATA">
+      <node ref="U12" pin="1" pintype="input"/>
+      <node ref="U12" pin="15" pintype="input"/>
+      <node ref="U7" pin="15" pinfunction="O0" pintype="output"/>
+    </net>
+    <net code="103" name="WRITE_DATA">
+      <node ref="U11" pin="9" pinfunction="Cp" pintype="input"/>
+      <node ref="U7" pin="13" pinfunction="O2" pintype="output"/>
+    </net>
+    <net code="104" name="unconnected-(P1--5V-Pad34)">
+      <node ref="P1" pin="34" pinfunction="-5V" pintype="power_out+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(P1--12V-Pad33)">
+      <node ref="P1" pin="33" pinfunction="-12V" pintype="power_out+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(P1-7M-Pad36)">
+      <node ref="P1" pin="36" pinfunction="7M" pintype="output+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(P1-A3-Pad5)">
+      <node ref="P1" pin="5" pinfunction="A3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(P1-A4-Pad6)">
+      <node ref="P1" pin="6" pinfunction="A4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(P1-A5-Pad7)">
+      <node ref="P1" pin="7" pinfunction="A5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(P1-A6-Pad8)">
+      <node ref="P1" pin="8" pinfunction="A6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(P1-A7-Pad9)">
+      <node ref="P1" pin="9" pinfunction="A7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(P1-A8-Pad10)">
+      <node ref="P1" pin="10" pinfunction="A8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(P1-A9-Pad11)">
+      <node ref="P1" pin="11" pinfunction="A9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(P1-A10-Pad12)">
+      <node ref="P1" pin="12" pinfunction="A10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(P1-A11-Pad13)">
+      <node ref="P1" pin="13" pinfunction="A11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(P1-A12-Pad14)">
+      <node ref="P1" pin="14" pinfunction="A12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(P1-A13-Pad15)">
+      <node ref="P1" pin="15" pinfunction="A13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(P1-A14-Pad16)">
+      <node ref="P1" pin="16" pinfunction="A14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(P1-A15-Pad17)">
+      <node ref="P1" pin="17" pinfunction="A15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(P1-COLORREF-Pad35)">
+      <node ref="P1" pin="35" pinfunction="COLORREF" pintype="output+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(P1-Q3-Pad37)">
+      <node ref="P1" pin="37" pinfunction="Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(P1-R{slash}W-Pad18)">
+      <node ref="P1" pin="18" pinfunction="R/W" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(P1-SYNC-Pad19)">
+      <node ref="P1" pin="19" pinfunction="SYNC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(P1-USER1-Pad39)">
+      <node ref="P1" pin="39" pinfunction="USER1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(P1-{slash}DMA-Pad22)">
+      <node ref="P1" pin="22" pinfunction="/DMA" pintype="input+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(P1-{slash}INH-Pad32)">
+      <node ref="P1" pin="32" pinfunction="/INH" pintype="input+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(P1-{slash}IOSEL-Pad1)">
+      <node ref="P1" pin="1" pinfunction="/IOSEL" pintype="output+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(P1-{slash}IOSTRB-Pad20)">
+      <node ref="P1" pin="20" pinfunction="/IOSTRB" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(P1-{slash}IRQ-Pad30)">
+      <node ref="P1" pin="30" pinfunction="/IRQ" pintype="input+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(P1-{slash}NMI-Pad29)">
+      <node ref="P1" pin="29" pinfunction="/NMI" pintype="input+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(P1-{slash}RDY-Pad21)">
+      <node ref="P1" pin="21" pinfunction="/RDY" pintype="input+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(P1-Φ1-Pad38)">
+      <node ref="P1" pin="38" pinfunction="Φ1" pintype="output+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U3-NC-Pad9)">
+      <node ref="U3" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U3-NC-Pad13)">
+      <node ref="U3" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U5A-Q-Pad1)">
+      <node ref="U5" pin="1" pinfunction="Q" pintype="output+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U5A-~{Q}-Pad2)">
+      <node ref="U5" pin="2" pinfunction="~{Q}" pintype="output+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U5B-~{Q}-Pad12)">
+      <node ref="U5" pin="12" pinfunction="~{Q}" pintype="output+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U6-Pad10)">
+      <node ref="U6" pin="10" pintype="output+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U6-Pad11)">
+      <node ref="U6" pin="11" pintype="output+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(U7-O4-Pad11)">
+      <node ref="U7" pin="11" pinfunction="O4" pintype="output"/>
+    </net>
+    <net code="141" name="unconnected-(U7-O5-Pad10)">
+      <node ref="U7" pin="10" pinfunction="O5" pintype="output"/>
+    </net>
+    <net code="142" name="unconnected-(U7-O6-Pad9)">
+      <node ref="U7" pin="9" pinfunction="O6" pintype="output"/>
+    </net>
+    <net code="143" name="unconnected-(U7-O7-Pad7)">
+      <node ref="U7" pin="7" pinfunction="O7" pintype="output"/>
+    </net>
+    <net code="144" name="unconnected-(U10-D2-Pad6)">
+      <node ref="U10" pin="6" pinfunction="D2" pintype="input+no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(U10-Q2-Pad7)">
+      <node ref="U10" pin="7" pinfunction="Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="146" name="unconnected-(U11-D4-Pad13)">
+      <node ref="U11" pin="13" pinfunction="D4" pintype="input+no_connect"/>
+    </net>
+    <net code="147" name="unconnected-(U11-D5-Pad14)">
+      <node ref="U11" pin="14" pinfunction="D5" pintype="input+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(U11-Q4-Pad12)">
+      <node ref="U11" pin="12" pinfunction="Q4" pintype="output+no_connect"/>
+    </net>
+    <net code="149" name="unconnected-(U11-Q5-Pad15)">
+      <node ref="U11" pin="15" pinfunction="Q5" pintype="output+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(U12-Pad9)">
+      <node ref="U12" pin="9" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="151" name="unconnected-(U12-Pad10)">
+      <node ref="U12" pin="10" pintype="input+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(U15-Q0-Pad9)">
+      <node ref="U15" pin="9" pinfunction="Q0" pintype="output+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(U15-Q1-Pad7)">
+      <node ref="U15" pin="7" pinfunction="Q1" pintype="output+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(U15-Q2-Pad6)">
+      <node ref="U15" pin="6" pinfunction="Q2" pintype="output+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(U15-Q3-Pad5)">
+      <node ref="U15" pin="5" pinfunction="Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(U15-Q10-Pad15)">
+      <node ref="U15" pin="15" pinfunction="Q10" pintype="output+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(U15-Q11-Pad1)">
+      <node ref="U15" pin="1" pinfunction="Q11" pintype="output+no_connect"/>
+    </net>
+    <net code="158" name="{slash}DEVSEL">
+      <node ref="P1" pin="41" pinfunction="/DEVSEL" pintype="output"/>
+      <node ref="U7" pin="4" pinfunction="E1" pintype="input"/>
+    </net>
+    <net code="159" name="{slash}RESET">
+      <node ref="P1" pin="31" pinfunction="/RES" pintype="input"/>
+      <node ref="U10" pin="1" pinfunction="~{Mr}" pintype="input"/>
+    </net>
+    <net code="160" name="Φ0">
+      <node ref="P1" pin="40" pinfunction="Φ0" pintype="output"/>
+      <node ref="U9" pin="9" pintype="input"/>
+    </net>
+  </nets>
+</export>
