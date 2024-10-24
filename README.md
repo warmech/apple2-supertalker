@@ -6,6 +6,6 @@ This card is somewhat hard to find now, but I happened to come across one at a r
 
 More details to follow once initial assembly and testing are completed.
 
-![Supertalker Front](/images/pcb_front_angle_render.png)
+![Supertalker Front](/images/renders/pcb_front_angle_render.png)
  
 ## Errata
